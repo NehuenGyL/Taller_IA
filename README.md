@@ -1,4 +1,4 @@
-# Bienvenidos al taller de Python e IA
+# Bienvenidos al taller introducción a la IA
 
 <p align="center">
   <img width="1000" src="img/code-your-python-programs.png">
@@ -6,40 +6,75 @@
 
 
 ## Introduccion a Inteligencia Artificial:
- La inteligencia artificial es un campo de la ciencia relacionado con la creación de computadoras y máquinas que pueden razonar, aprender y actuar de una manera que normalmente requeriría inteligencia humana o que involucre datos cuya escala exceda lo que los humanos pueden analizar. 
+La inteligencia artificial es un campo de la ciencia relacionado con la creación de computadoras y máquinas que pueden razonar, aprender y actuar de una manera que normalmente requeriría inteligencia humana o que involucre datos cuya escala exceda lo que los humanos pueden analizar. 
 
-## Linea de tiempo de Inteligencia Artificial
+## Contenido
+### Linea de tiempo de Inteligencia Artificial
 <p align="center">
-  <img width="1000" src="img/captura3.png">
+  <img width="550" src="img/captura3.png">
   </p>
 
-## Tipos de Ingeligencia Artificial
-#### IA basada en reglas :
-IA basada en reglas (Symbolic AI): También conocida como IA basada en conocimiento, este enfoque utiliza reglas lógicas para representar el conocimiento y realizar razonamiento sobre él. Se basa en la manipulación de símbolos y estructuras de datos formales.
-#### IA de aprendizaje automático (Machine Learning, ML)
-IA de aprendizaje automático (Machine Learning, ML): Se centra en desarrollar algoritmos y modelos que permiten a las computadoras aprender patrones y tomar decisiones a partir de datos sin ser explícitamente programadas para cada tarea.
-#### IA profunda (Deep Learning)
-IA profunda (Deep Learning): Es una subcategoría del aprendizaje automático que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones de datos con múltiples niveles de abstracción. Es especialmente efectiva en tareas como el reconocimiento de imágenes y de voz, y el procesamiento del lenguaje natural.
-#### IA simbólica
-IA simbólica: Se basa en la manipulación de símbolos y en la lógica para representar el conocimiento y tomar decisiones. Se utiliza en áreas como el razonamiento automatizado y los sistemas expertos.
-#### IA cognitiva
-IA cognitiva: Se centra en imitar el proceso de pensamiento humano, incluidas las capacidades de percepción, comprensión del lenguaje, razonamiento y resolución de problemas.
-#### IA de refuerzo (Reinforcement Learning)
-IA de refuerzo (Reinforcement Learning): Los agentes aprenden a tomar decisiones a través de interacciones con un entorno, maximizando las recompensas y minimizando las penalizaciones.
-#### IA generativa
-IA generativa: Se enfoca en la generación de datos nuevos y originales, como imágenes, música, texto, entre otros.
-#### IA híbrida
-IA híbrida: Combina diferentes enfoques de IA, como el aprendizaje automático y la IA simbólica, para aprovechar las fortalezas de cada uno en diversas aplicaciones.
-## Principales aplicaciones tecnicas de Inteligencia Artificial
-#### Asistentes personales virtuales
-#### Finanzas
-#### Comercial
-#### Educacion
-## Ejemplos en vivo:
-### Modelo Machine Learning
-### Conectandonos a IA Generativa(Openai)
-### Extra crea tu Openai Key:
+#### Tipos de Inteligencia Artificial:
+
+1. **IA basada en reglas (Symbolic AI):**
+   - También conocida como IA basada en conocimiento.
+   - Utiliza reglas lógicas para representar el conocimiento y realizar razonamiento.
+   - Se basa en la manipulación de símbolos y estructuras de datos formales.
+
+2. **IA de aprendizaje automático (Machine Learning, ML):**
+   - Desarrolla algoritmos y modelos que permiten a las computadoras aprender patrones.
+   - Toma decisiones a partir de datos sin ser explícitamente programadas para cada tarea.
+
+3. **IA profunda (Deep Learning):**
+   - Subcategoría del aprendizaje automático.
+   - Utiliza redes neuronales artificiales con múltiples capas.
+   - Aprende representaciones de datos con múltiples niveles de abstracción.
+   - Especialmente efectiva en tareas como reconocimiento de imágenes, voz y procesamiento del lenguaje natural.
+
+4. **IA simbólica:**
+   - Basada en la manipulación de símbolos y lógica para representar el conocimiento.
+   - Utilizada en áreas como el razonamiento automatizado y sistemas expertos.
+
+5. **IA cognitiva:**
+   - Imita el proceso de pensamiento humano.
+   - Incluye capacidades de percepción, comprensión del lenguaje, razonamiento y resolución de problemas.
+
+6. **IA de refuerzo (Reinforcement Learning):**
+   - Los agentes aprenden a tomar decisiones a través de interacciones con un entorno.
+   - Maximizan las recompensas y minimizan las penalizaciones.
+
+7. **IA generativa:**
+   - Se enfoca en la generación de datos nuevos y originales.
+   - Puede generar imágenes, música, texto, entre otros.
+
+#### Principales aplicaciones técnicas de Inteligencia Artificial
+
+1. **Educación:**
+   - Permite saber si un estudiante está a punto de cancelar su registro.
+   - Sugerir nuevos cursos o crear ofertas personalizadas para optimizar el aprendizaje.
+
+2. **Asistentes personales virtuales:**
+   - Conviviremos con chatbots interactivos que podrán sugerir productos, restaurantes, hoteles, servicios, espectáculos, según nuestro historial de búsquedas.
+
+3. **Finanzas:**
+   - Las tecnologías inteligentes pueden ayudar a los bancos a detectar el fraude.
+   - Predecir patrones del mercado y aconsejar operaciones a sus clientes.
+
+4. **Comercial:**
+   - Posibilita hacer pronósticos de ventas y elegir el producto adecuado para recomendárselo al cliente.
+   - Empresas como Amazon utilizan robots para identificar si un libro tendrá o no éxito, incluso antes de su lanzamiento.
+
+## Ejemplos:
+#### [Machine Learning]()
+#### [Deep Learning]()
+#### [IA Generativa(Openai)]()
+
+## Extras:
+### Crea tu OpenAI API Key :
+
 [Tutorial](https://github.com/NehuenGyL/Taller_IA/blob/main/Tutorial.md)
+
+### Recursos para seguir aprendiendo:
 
 [Recursos](https://github.com/NehuenGyL/Taller_IA/blob/main/Recursos.md)
 ## Créditos
