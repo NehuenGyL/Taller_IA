@@ -1,7 +1,7 @@
 # Bienvenidos al taller introducción a la IA
 
 <p align="center">
-  <img width="1000" src="img/code-your-python-programs.png">
+  <img width="1000" src="recursos/code-your-python-programs.png">
   </p>
 
 
@@ -11,7 +11,7 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
 ## Contenido
 ### Linea de tiempo de Inteligencia Artificial
 <p align="center">
-  <img width="550" src="img/captura3.png">
+  <img width="550" src="recursos/captura3.png">
   </p>
 
 #### Tipos de Inteligencia Artificial:
@@ -72,11 +72,11 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
 ## Extras:
 ### Crea tu OpenAI API Key :
 
-[Tutorial](https://github.com/NehuenGyL/Taller_IA/blob/main/Tutorial.md)
+[Tutorial](https://github.com/NehuenGyL/Taller_IA/blob/main/recursos/Tutorial.md)
 
 ### Recursos para seguir aprendiendo:
 
-[Recursos](https://github.com/NehuenGyL/Taller_IA/blob/main/Recursos.md)
+[Recursos](https://github.com/NehuenGyL/Taller_IA/blob/main/recursos/Recursos.md)
 ## Créditos
 Desarrollado por:
 
