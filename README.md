@@ -42,7 +42,8 @@ IA híbrida: Combina diferentes enfoques de IA, como el aprendizaje automático 
 ## Ejemplos en vivo:
 ### Modelo Machine Learning
 ### Conectandonos a IA Generativa(Openai)
-### Extra "tu propio Alexa"
+### Extra crea tu Openai Key:
+[Tutorial](img/Tutorial.md)
 ## Créditos
 Desarrollado por:
 
