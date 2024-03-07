@@ -74,7 +74,7 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
 
 [Tutorial](https://github.com/NehuenGyL/Taller_IA/blob/main/recursos/Tutorial.md)
 
-### Recursos para seguir aprendiendo:
+### Recursos adicionales:
 
 [Recursos](https://github.com/NehuenGyL/Taller_IA/blob/main/recursos/Recursos.md)
 
