@@ -1,6 +1,6 @@
 # Bienvenidos al tutorial de Openai
 <p align="center">
-  <img width="1000" src="img/AdobeStock.jpeg">
+  <img width="800" src="img/AdobeStock.jpeg">
   </p>
 
 
