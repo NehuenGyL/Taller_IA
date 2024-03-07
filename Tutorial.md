@@ -112,7 +112,7 @@ Le colocamos el nombre de la variable que seria OPENAI_API_KEY, y pegamos la API
 
 
 <p align="center">
-  <img width="500" src="img/var6.png">
+  <img width="650" src="img/var6.png">
   </p>
 
 ### Y todo listo para poder probar la IA de OpenAI para tus proyectos
