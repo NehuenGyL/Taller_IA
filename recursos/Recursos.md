@@ -21,8 +21,6 @@ Vamos a profundizar un poco mas en el siguiente video:
 [Video3](https://www.youtube.com/watch?v=JpE4bYyRADI)
 
 
-En el link especial podras jugar un poco con redes neuronales sin tener conocimientos en programacion
-
 Muchas gracias por llegar hasta aqui.
 
 <p align="center">
