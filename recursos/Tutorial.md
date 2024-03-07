@@ -1,6 +1,6 @@
 # Bienvenidos al tutorial de Openai
 <p align="center">
-  <img width="850" src="img/AdobeStock.jpeg">
+  <img width="850" src="AdobeStock.jpeg">
   </p>
 
 
@@ -18,23 +18,23 @@ Lo primero que debemos hacer es crear una cuenta, para esto ingresa a la ventana
 ## Paso 2: Registrarse
 Ahora debes hacer clic en el enlace Registrarse:
 <p align="center">
-  <img width="650" src="img/80.png">
+  <img width="650" src="80.png">
   </p>
 
 Después introduce tu correo en ChatGPT y haz clic en «Continuar»
 <p align="center">
-  <img width="650" src="img/81.png">
+  <img width="650" src="81.png">
   </p>
 
 El siguiente paso es colocar una contraseña, normalmente son 12 caracteres para mayor seguridad, luego haz clic en «Continuar»
 
 <p align="center">
-  <img width="650" src="img/82.png">
+  <img width="650" src="82.png">
   </p>
 
 Una vez creada la cuenta te va a solicitar que verifiques tu correo electronico por una cuestion de seguridad:
 <p align="center">
-  <img width="650" src="img/83.png">
+  <img width="650" src="83.png">
   </p>
 
 ## Paso 3: Obtener un API Key
@@ -45,36 +45,36 @@ Ingresa a [link](https://platform.openai.com/account/api-keys)
 Una vez dentro de la organización, dirígete a la sección "API Keys"
 
 <p align="center">
-  <img width="650" src="img/84.png">
+  <img width="650" src="84.png">
   </p>
 
 Haz clic en el botón "Create new API key".
 
 <p align="center">
-  <img width="650" src="img/85.png">
+  <img width="650" src="85.png">
   </p>
 
 <p align="center">
-  <img width="650" src="img/86.png">
+  <img width="650" src="86.png">
   </p>
 
 Aparecerá una ventana con la clave de acceso. Es importante que guardes esta clave en un lugar seguro, ya que no podrás verla nuevamente.
 
 <p align="center">
-  <img width="650" src="img/87.png">
+  <img width="650" src="87.png">
   </p>
 
 Utiliza esta clave en tus solicitudes a la API de OpenAI para autenticarte y obtener acceso a los recursos disponibles.
 
 <p align="center">
-  <img width="650" src="img/88.png">
+  <img width="650" src="88.png">
   </p>
 
 ## Paso 4: Verificar costos
 
 Si necesitas verificar tus costos puedes ir a la seccion "Usage"
 <p align="center">
-  <img width="650" src="img/89.png">
+  <img width="650" src="89.png">
   </p>
 
 ## Paso 5: Crear una variable de entorno 
@@ -86,37 +86,37 @@ Y seleccionamos "Editar las variables de entorno del sistema"
 
 
 <p align="center">
-  <img width="650" src="img/var1.png">
+  <img width="650" src="var1.png">
   </p>
 
 Luego se abre una pestaña y seleccionamos "variables de entorno"
 
 <p align="center">
-  <img width="650" src="img/var2.png">
+  <img width="650" src="var2.png">
   </p>
 
 Se abre otra nueva pestaña y seleccionamos en Variables de entorno de usuario "Nuevo"
 <p align="center">
-  <img width="650" src="img/var3.png">
+  <img width="650" src="var3.png">
   </p>
 
 Le colocamos el nombre de la variable que seria OPENAI_API_KEY, y pegamos la API KEY que obtuvimos de OpenAI
 <p align="center">
-  <img width="650" src="img/var4.png">
+  <img width="650" src="var4.png">
   </p>
 
 ### Estos pasos se repiten en Variables de sistema
 <p align="center">
-  <img width="650" src="img/var5.png">
+  <img width="650" src="var5.png">
   </p>
 
 
 <p align="center">
-  <img width="650" src="img/var6.png">
+  <img width="650" src="var6.png">
   </p>
 
 ### Y todo listo para poder probar la IA de OpenAI para tus proyectos
 
 <p align="center">
-  <img width="250" src="img/tilin_2.gif">
+  <img width="250" src="tilin_2.gif">
   </p>
