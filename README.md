@@ -45,7 +45,7 @@ IA híbrida: Combina diferentes enfoques de IA, como el aprendizaje automático 
 ### Extra crea tu Openai Key:
 [Tutorial](https://github.com/NehuenGyL/Taller_IA/blob/main/Tutorial.md)
 
-[Recursos]()
+[Recursos](https://github.com/NehuenGyL/Taller_IA/blob/main/Recursos.md)
 ## Créditos
 Desarrollado por:
 
