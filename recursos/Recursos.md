@@ -27,5 +27,5 @@ En el link especial podras jugar un poco con redes neuronales sin tener conocimi
 Muchas gracias por llegar hasta aqui.
 
 <p align="center">
-  <img width="1000" src="img/AI.jpg">
+  <img width="1000" src="AI.jpg">
   </p>
