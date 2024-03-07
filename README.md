@@ -14,7 +14,7 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
   <img width="550" src="recursos/captura3.png">
   </p>
 
-#### Tipos de Inteligencia Artificial:
+### Tipos de Inteligencia Artificial:
 
 1. **IA basada en reglas (Symbolic AI):**
    - También conocida como IA basada en conocimiento.
@@ -47,7 +47,7 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
    - Se enfoca en la generación de datos nuevos y originales.
    - Puede generar imágenes, música, texto, entre otros.
 
-#### Principales aplicaciones técnicas de Inteligencia Artificial
+### Principales aplicaciones técnicas de Inteligencia Artificial
 
 1. **Educación:**
    - Permite saber si un estudiante está a punto de cancelar su registro.
