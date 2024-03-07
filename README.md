@@ -43,7 +43,7 @@ IA híbrida: Combina diferentes enfoques de IA, como el aprendizaje automático 
 ### Modelo Machine Learning
 ### Conectandonos a IA Generativa(Openai)
 ### Extra crea tu Openai Key:
-[Tutorial](img/Tutorial.md)
+[Tutorial](https://github.com/NehuenGyL/Taller_IA/blob/main/img/Tutorial.md)
 ## Créditos
 Desarrollado por:
 
