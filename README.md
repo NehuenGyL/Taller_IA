@@ -64,6 +64,10 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
    - Posibilita hacer pronósticos de ventas y elegir el producto adecuado para recomendárselo al cliente.
    - Empresas como Amazon utilizan robots para identificar si un libro tendrá o no éxito, incluso antes de su lanzamiento.
 
+<p align="center">
+  <img width="550" src="recursos/olav.png">
+  </p>
+
 ## Ejemplos:
 #### [Machine Learning](machine_learning.ipynb)
 #### [Deep Learning](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.1&regularizationRate=0&noise=0&networkShape=8,8&seed=0.77761&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
