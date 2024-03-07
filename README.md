@@ -32,13 +32,9 @@ IA generativa: Se enfoca en la generación de datos nuevos y originales, como im
 IA híbrida: Combina diferentes enfoques de IA, como el aprendizaje automático y la IA simbólica, para aprovechar las fortalezas de cada uno en diversas aplicaciones.
 ## Principales aplicaciones tecnicas de Inteligencia Artificial
 #### Asistentes personales virtuales
-#### Climáticas
 #### Finanzas
-#### Agricolas
-#### Logistica y transporte
 #### Comercial
 #### Educacion
-#### Sanidad
 ## Ejemplos en vivo:
 ### Modelo Machine Learning
 ### Conectandonos a IA Generativa(Openai)
