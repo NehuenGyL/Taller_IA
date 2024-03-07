@@ -20,7 +20,6 @@ Vamos a profundizar un poco mas en el siguiente video:
 
 [Video3](https://www.youtube.com/watch?v=JpE4bYyRADI)
 
-[Link Especial](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=8,6,2&seed=0.83735&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 En el link especial podras jugar un poco con redes neuronales sin tener conocimientos en programacion
 
