@@ -5,14 +5,14 @@ Es un verdadero placer verte en esta seccion, eso significa que quieres profundi
 
  Se centra en desarrollar algoritmos y modelos que permiten a las computadoras aprender patrones y tomar decisiones a partir de datos sin ser explícitamente programadas para cada tarea.
 
-vamos a profundizar un poco en estos recursos...
+Vamos a profundizar un poco en este recurso:
 
-
+[Modelo de Machine Learning](https://cienciadedatos.net/documentos/py27-forecasting-series-temporales-python-scikitlearn.html)
 
 ## Aprendizaje Profundo :
 Es una subcategoría del aprendizaje automático que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones de datos con múltiples niveles de abstracción. Es especialmente efectiva en tareas como el reconocimiento de imágenes y de voz, y el procesamiento del lenguaje natural.
 
-vamos a profundizar un poco mas en el siguiente video:
+Vamos a profundizar un poco mas en el siguiente video:
 
 [Video](https://www.youtube.com/watch?v=iX_on3VxZzk&t=1s)
 
