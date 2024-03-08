@@ -85,7 +85,8 @@ La inteligencia artificial es un campo de la ciencia relacionado con la creació
 ### Presentación
 [Link Presentación](https://www.canva.com/design/DAF5mZRQGhA/2YSqZpzm7qnxTECQp9IWmw/edit?utm_content=DAF5mZRQGhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
+### Regalito
+La API KEY de openai lo dejamos en la presentación :)
 
 ## Créditos
 Desarrollado por:
